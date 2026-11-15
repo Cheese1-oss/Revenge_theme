@@ -1,0 +1,101 @@
+{
+  "name": "Jujutsu Kaisen Custom",
+  "description": "Custom JJK theme for Revenge",
+  "authors": [
+    {
+      "name": "Custom",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#F8FAFC"
+    ],
+    "HEADER_SECONDARY": [
+      "#94A3B8"
+    ],
+    "TEXT_NORMAL": [
+      "#E2E8F0"
+    ],
+    "TEXT_MUTED": [
+      "#64748B"
+    ],
+    "TEXT_LINK": [
+      "#38BDF8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#CBD5E1"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F8FAFC"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#38BDF8"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#475569"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#090A0FCC"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#06070AE6"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0D0F17F2"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#040508F2"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1E293B"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#090A0FF2"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#090A0FCC"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#06070AE6"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#090A0FCC"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#06070AE6"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#040508F2"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#0F121CE6"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0F121CE6"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#94A3B8"
+    ],
+    "CHANNEL_ICON": [
+      "#38BDF8"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#38BDF8",
+    "BRAND_560": "#0284C7",
+    "PRIMARY_600": "#090A0F",
+    "PRIMARY_630": "#06070A",
+    "PRIMARY_660": "#040508",
+    "PRIMARY_700": "#040508"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://kommodo.ai/i/dC3YfSEQ0HCS4xHLHpQr",
+    "alpha": 0.85
+  },
+  "spec": 2
+}
